@@ -71,26 +71,7 @@ The system must allow detailed registration and maintenance of:
 
 ---
 
-## 5. Business Use Cases (Main Flows)
-
-### UC01: Career Data Centralization
-
-- **Actor:** Professional.
-- **Description:** The user enters all their experiences and skills. The system stores this data as the professional's "Single Source of Truth".
-
-### UC02: Segmented Resume Generation
-
-- **Actor:** Professional.
-- **Description:** The user chooses the "Technology" template, selects only Java projects and Cloud certifications to generate a resume focused on a Backend position.
-
-### UC03: Prime Profile Acquisition
-
-- **Actor:** Standard User.
-- **Description:** When attempting to use an exclusive template, the user is invited to subscribe to the Prime plan. After payment confirmation, access permissions are automatically updated.
-
----
-
-## 6. Quality and Security Requirements
+## 5. Quality and Security Requirements
 
 - **Privacy:** Professional data is the exclusive property of the user and cannot be shared without authorization.
 - **Availability:** Profile access for quick edits must be available on mobile and desktop devices.
