@@ -11,11 +11,14 @@ This repository acts as the central entry point for architecture, onboarding, do
 
 ## Projects
 
+### Infrastructure
+- https://github.com/guiassys/aura-infra
+
 ### Frontend
 - https://github.com/guiassys/aura-front
 
 ### Backend API
 - https://github.com/guiassys/aura-api
 
-### Infrastructure
-- https://github.com/guiassys/aura-infra
+### Eureka
+- https://github.com/Apexlone/aura-eureka
