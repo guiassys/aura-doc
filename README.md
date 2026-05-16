@@ -22,3 +22,6 @@ This repository acts as the central entry point for architecture, onboarding, do
 
 ### Eureka
 - https://github.com/Apexlone/aura-eureka
+
+### Gateway
+- https://github.com/Apexlone/aura-gateway
